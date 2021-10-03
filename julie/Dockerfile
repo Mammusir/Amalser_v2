@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN https://github.com/Mammusir/Amalser_v2 
+RUN https://github.com/Mammusir/Amalser_v2
 
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
